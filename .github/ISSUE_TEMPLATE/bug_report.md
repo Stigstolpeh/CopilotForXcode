@@ -9,19 +9,20 @@ about: Create a report to help us improve GitHub Copilot for Xcode
 <!-- A clear and concise description of what the bug is. -->
 
 ## Versions
+
 - Copilot for Xcode: [e.g. 0.25.0]
 - Xcode: [e.g. 16.0]
 - macOS: [e.g. 14.6.1]
 
 **Steps to reproduce**
-1. 
-2. 
+1.
+2.
 
-**Screenshots**
+## Screenshots
 <!-- Add screenshots or screen recordings to help explain your problem. -->
 
-**Logs**
+## Logs
 <!-- Attach relevant logs from `~/Library/Logs/GitHubCopilot/` -->
 
-**Additional context**
+## Additional context
 <!-- Add any other context about the problem here. -->
