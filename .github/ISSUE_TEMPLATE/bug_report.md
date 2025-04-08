@@ -8,7 +8,7 @@ about: Create a report to help us improve GitHub Copilot for Xcode
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
 
-**Versions**
+## Versions
 - Copilot for Xcode: [e.g. 0.25.0]
 - Xcode: [e.g. 16.0]
 - macOS: [e.g. 14.6.1]
